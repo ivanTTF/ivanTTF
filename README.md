@@ -5,7 +5,7 @@
 
 <!-- Linha animada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa2f3a,100:a30008&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
