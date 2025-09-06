@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ff030f&center=true&vCenter=true&width=500&lines=Ivan+Samuel;Desenvolvedor+Web;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia" alt="Typing SVG" />
 </p>
 
-<!-- Linha animada -->
+<!-- Linha animada ->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa2f3a,100:a30008&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
